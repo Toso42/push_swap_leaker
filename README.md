@@ -4,7 +4,7 @@ Push_Swap_Leaker is a rude and dumb (very dumb) bash script utility for debuggin
 
 It is not meant to fully debug your code, but as the name suggests, it solely tries to find memory leaks in the code by sending a battery of inputs to your two executables, and then grepping the "leaks --atExit" output from the stdout $(man leaks).
 
-![Screenshot](slurp.png)
+![Screenshot](Slurp.png)
 
 #INSTRUCTIONS:
 
